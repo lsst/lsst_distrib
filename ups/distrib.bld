@@ -1,0 +1,4 @@
+mkdir $installdir/ups
+cp ups/$product.table $installdir/ups/$product.table
+eups expandtable -i -W '^(?!LOCAL:)' $installdir/ups/$product.table
+eups declare $product $version -r $installdir
