@@ -1,4 +1,4 @@
 .scon*
 config.log
-python/lsst/lsstactive/version.py
-ups/lsstactive.cfgc
+python/lsst/lsst/*/version.py
+ups/*.cfgc

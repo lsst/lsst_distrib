@@ -1,4 +1,3 @@
+setupRequired(lsst_apps)
 setupRequired(ctrl_execute)
-setupRequired(obs_sdss)
-setupRequired(testing_pipeQA)
-setupRequired(testing_endtoend)
+setupRequired(datarel)
