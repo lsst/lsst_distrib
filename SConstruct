@@ -1,3 +1,3 @@
 # -*- python -*-
 from lsst.sconsUtils import scripts
-scripts.BasicSConstruct("lsstactive")
+scripts.BasicSConstruct("lsst_distrib")
