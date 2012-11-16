@@ -1,3 +1,7 @@
 setupRequired(lsst_apps)
 setupRequired(ctrl_execute)
+setupRequired(ctrl_platform_gordon)
+setupRequired(ctrl_platform_lsst)
 setupRequired(datarel)
+setupRequired(testing_endtoend)
+setupRequired(testing_pipeQA)
