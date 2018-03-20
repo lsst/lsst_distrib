@@ -1,7 +1,6 @@
 setupRequired(lsst_apps)
 setupRequired(ctrl_execute)
 setupRequired(ctrl_platform_lsstvc)
-setupRequired(datarel)
 setupOptional(meas_extensions_convolved)
 setupOptional(meas_extensions_shapeHSM)
 setupOptional(meas_extensions_photometryKron)
