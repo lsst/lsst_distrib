@@ -17,3 +17,6 @@ setupRequired(display_matplotlib)
 setupRequired(cp_pipe)
 setupRequired(validate_drp)
 setupRequired(fgcmcal)
+
+envPrepend(XDG_CONFIG_HOME, ${EUPS_PATH})
+envPrepend(XDG_CACHE_HOME, ${EUPS_PATH})
