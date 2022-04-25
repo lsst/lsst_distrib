@@ -1,6 +1,7 @@
 setupRequired(lsst_apps)
 setupRequired(ctrl_mpexec)
 setupRequired(ctrl_bps)
+setupRequired(lsst_bps_plugins)
 setupOptional(meas_extensions_convolved)
 setupOptional(meas_extensions_shapeHSM)
 setupOptional(meas_extensions_photometryKron)
