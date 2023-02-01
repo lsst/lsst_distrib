@@ -1,5 +1,6 @@
 setupRequired(lsst_apps)
 setupRequired(ctrl_execute)
+setupOptional(ctrl_platform_s3df)
 setupRequired(ctrl_mpexec)
 setupRequired(ctrl_bps)
 setupRequired(lsst_bps_plugins)
