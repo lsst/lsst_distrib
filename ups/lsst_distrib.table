@@ -1,4 +1,5 @@
 setupRequired(lsst_apps)
+setupRequired(ctrl_execute)
 setupRequired(ctrl_mpexec)
 setupRequired(ctrl_bps)
 setupRequired(lsst_bps_plugins)
