@@ -1,3 +1,4 @@
+python/
 .scon*
 config.log
 python/lsst/lsst/*/version.py
