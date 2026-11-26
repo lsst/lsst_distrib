@@ -1,3 +1,3 @@
 # -*- python -*-
 from lsst.sconsUtils import scripts
-scripts.BasicSConstruct("lsst_distrib")
+scripts.BasicSConstruct("lsst_distrib", noCfgFile=True, disableCc=True)
